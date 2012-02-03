@@ -1,5 +1,5 @@
 <project name="Sample usage of Salesforce Ant tasks" default="test" basedir="." xmlns:sf="antlib:com.salesforce">
-
+<!-- but this is different again on local machine -->
     <property file="build.properties"/>
     <property environment="env"/>
 
